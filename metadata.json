@@ -1,0 +1,8 @@
+{
+  "name": "SmartHarvest Dashboard",
+  "description": "An AI-powered dashboard for farmers, providing local weather forecasts, actionable alerts, and personalized crop and fertilizer recommendations based on soil health analysis.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
